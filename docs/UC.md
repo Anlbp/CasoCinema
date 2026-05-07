@@ -1,5 +1,5 @@
 # Casos de Uso
-- - Atores
+- Atores
 
 Funcionário : opera o sistema no dia a dia
 
