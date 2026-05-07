@@ -1,4 +1,5 @@
-- Casos de Uso - Atores
+# Casos de Uso
+- - Atores
 
 Funcionário : opera o sistema no dia a dia
 
@@ -6,7 +7,7 @@ Administrador : acessa relatórios e totalizações
 
 Espectador : consulta informações de filmes e sessões
 
-- Casos de Uso Funcionário
+- Funcionário
 
 UC01 : Cadastrar Cinema
 
@@ -22,6 +23,6 @@ UC05 : Consultar Sessões por Cinema
 
 UC06 : Totalizar Público
 
-Espectador
+- Espectador
 
 UC07 : Consultar Detalhes do Filme
